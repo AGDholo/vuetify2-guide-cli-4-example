@@ -1,1 +1,11 @@
 $font-size-root: 30px;
+
+/* 设置亮色主题全局背景色 */
+$material-light: (
+  "background": #e0e0e0,
+);
+
+/* 设置暗色主题全局背景色 */
+$material-dark: (
+  "background": #263238,
+);
